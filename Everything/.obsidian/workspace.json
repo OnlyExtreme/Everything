@@ -13,24 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Latex Test.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "1fc3a8622fa1bf8d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a5107ebbc2ef0597",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Latex Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Latex Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Latex Test.md"
               }
             }
           }
@@ -162,6 +148,9 @@
   },
   "active": "7926af6c447cabbe",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Latex Test.md",
+    "Welcome.md",
+    "Notes",
+    "Diary"
   ]
 }
